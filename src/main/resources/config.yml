@@ -1,0 +1,4 @@
+server: false
+ip: 0.0.0.0
+port: 5556
+protocol: 649 # version 1.20.60
